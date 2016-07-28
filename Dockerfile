@@ -1,5 +1,6 @@
 FROM ubuntu:14.04
-MAINTAINER ashok@bloomreach.comA
+MAINTAINER ashok.satyanarayana@gmail.comA
+
 
 RUN apt-get update
 
