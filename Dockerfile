@@ -1,5 +1,9 @@
 FROM ubuntu:14.04
-MAINTAINER ashok.satyanarayana@gmail.comA
+MAINTAINER ashok.satyanarayana@gmail.com
+
+#
+#shamelessly copied from https://github.com/docker-library/python/blob/8d03a5036b0170c12ae422ed8f10169e8db9b30b/2.7/Dockerfile
+#
 
 
 RUN apt-get update
